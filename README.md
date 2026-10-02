@@ -1,6 +1,7 @@
 ## Welcome 👋
 
 I'm a self-taught developer based in Germany, with a main focus on emergency medicine and programming. I'm a full-stack developer who especially enjoys working on backend systems.
+
 This GitHub account is mainly meant to share old and open-source projects for everyone to view, use, and learn from. Most of my current projects, however, are private.
 ---
 #💻 Programming Languages
