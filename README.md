@@ -5,12 +5,12 @@ I'm a self-taught developer based in Germany, with a main focus on emergency med
 This GitHub account is mainly meant to share old and open-source projects for everyone to view, use, and learn from. Most of my current projects, however, are private.
 
 ---
-💻 ##Programming Languages
+💻 Programming Languages
 - C++
 - Python
 - Lua
 ---
-🛠️ ##Tools & Software
+🛠️ Tools & Software
 - Hammer Editor (Source)
 - Unreal Engine 5
 ---
