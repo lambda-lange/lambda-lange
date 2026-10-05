@@ -13,6 +13,7 @@ This GitHub account is mainly meant to share old and open-source projects for ev
 🛠️ Tools & Software
 - Hammer Editor (Source)
 - Unreal Engine 5
+- VS Code
 ---
 Note: Feel free to copy my spaghetti code if you want to no restrictions.
 
